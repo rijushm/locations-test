@@ -1,0 +1,3257 @@
+{
+"type": "FeatureCollection",
+"features": [
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.7583643,153.3084489]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Woongoolba",
+      "storeid": "1"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.7390593,153.3457273]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Steiglitz",
+      "storeid": "2"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.7790106,153.363625]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Jacobs Well",
+      "storeid": "3"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.7366943,153.3681991]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Southern Moreton Bay Islands",
+      "storeid": "4"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.8191473,153.290142]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Pimpama",
+      "storeid": "5"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-19.1510786,143.7816082]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Gilberton",
+      "storeid": "6"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.7705994,153.2991626]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Norwell",
+      "storeid": "7"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.7018168,153.2438865]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Alberton",
+      "storeid": "8"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.7861892,153.2591207]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Ormeau",
+      "storeid": "9"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.7508081,153.2174661]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Yatala",
+      "storeid": "10"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.8722377,153.1375472]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Luscombe",
+      "storeid": "11"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.8007689,153.2333526]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Ormeau Hills",
+      "storeid": "12"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.7301943,153.2427023]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Stapylton",
+      "storeid": "13"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.991785,153.3786549]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Ashmore",
+      "storeid": "14"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-28.0025397,153.3850808]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Benowa",
+      "storeid": "15"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.9461226,153.3985535]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Labrador",
+      "storeid": "16"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.9321934,153.3992289]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Biggera Waters",
+      "storeid": "17"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-28.1483325,153.4914245]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Tugun",
+      "storeid": "18"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-28.1377481,153.4754519]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Currumbin",
+      "storeid": "19"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-28.1506332,153.4999382]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Bilinga",
+      "storeid": "20"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-28.04432,153.4343834]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Mermaid Beach",
+      "storeid": "21"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-28.0335499,153.432081]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Broadbeach",
+      "storeid": "22"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-28.0292574,153.4094625]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Broadbeach Waters",
+      "storeid": "23"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-28.018505,153.4026319]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Bundall",
+      "storeid": "24"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.9981385,153.4204173]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Surfers Paradise",
+      "storeid": "25"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-28.103303,153.4235826]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Burleigh Heads",
+      "storeid": "26"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-28.0697891,153.4371341]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Miami",
+      "storeid": "27"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-28.0807211,153.4333922]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Burleigh Waters",
+      "storeid": "28"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-28.0503785,153.3600569]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Merrimac",
+      "storeid": "29"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-28.022288,153.3666243]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Carrara",
+      "storeid": "30"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-28.169241,153.530685]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Coolangatta",
+      "storeid": "31"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.898161,153.385464]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Coombabah",
+      "storeid": "32"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-28.1541231,153.4692191]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Currumbin Waters",
+      "storeid": "33"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-28.140456,153.4284883]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Tallebudgera",
+      "storeid": "34"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-28.1386816,153.3968589]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Tallebudgera Valley",
+      "storeid": "35"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-28.163327,153.459879]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Currumbin Valley",
+      "storeid": "36"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-28.1270546,153.4591481]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Elanora",
+      "storeid": "37"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-28.1839548,153.2588035]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Springbrook",
+      "storeid": "38"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-28.1359738,153.3180657]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Austinville",
+      "storeid": "39"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.9880112,153.2423166]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Clagiraba",
+      "storeid": "40"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-28.0450741,153.2487666]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Lower Beechmont",
+      "storeid": "41"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.9508582,153.2237341]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Guanaba",
+      "storeid": "42"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-28.03871,153.275301]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Advancetown",
+      "storeid": "43"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.8989472,153.258555]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Wongawallan",
+      "storeid": "44"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.9156558,153.3344449]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Helensvale",
+      "storeid": "45"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.8700843,153.3519194]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Hope Island",
+      "storeid": "46"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.8557249,153.2978518]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Upper Coomera",
+      "storeid": "47"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.8174011,153.2406231]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Kingsholme",
+      "storeid": "48"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.847636,153.2676096]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Willow Vale",
+      "storeid": "49"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.9287048,153.2606646]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Maudsland",
+      "storeid": "50"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.9119445,153.4031566]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Runaway Bay",
+      "storeid": "51"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.9795064,153.4251278]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Main Beach",
+      "storeid": "52"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.8335086,153.4213208]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "South Stradbroke",
+      "storeid": "53"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-28.0480491,153.4215281]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Mermaid Waters",
+      "storeid": "54"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-28.0392653,153.4016523]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Clear Island Waters",
+      "storeid": "55"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.9774096,153.3654103]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Molendinar",
+      "storeid": "56"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-28.1030903,153.368423]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Mudgeeraba",
+      "storeid": "57"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-28.1294668,153.3420692]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Bonogin",
+      "storeid": "58"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-28.1099597,153.4055706]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Reedy Creek",
+      "storeid": "59"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-28.0672919,153.3923937]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Robina",
+      "storeid": "60"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-28.1164141,153.3160085]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Neranwood",
+      "storeid": "61"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.9903262,153.3358221]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Nerang",
+      "storeid": "62"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-28.0069093,153.3381725]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Highland Park",
+      "storeid": "63"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.9699274,153.2678621]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Mount Nathan",
+      "storeid": "64"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-28.0211195,153.3102439]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Gilston",
+      "storeid": "65"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.8995774,153.3056894]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Oxenford",
+      "storeid": "66"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.9432105,153.3132536]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Pacific Pines",
+      "storeid": "67"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.9651107,153.3455011]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Gaven",
+      "storeid": "68"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-28.122454,153.4691595]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Palm Beach",
+      "storeid": "69"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.8841949,153.3837034]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Paradise Point",
+      "storeid": "70"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.8969953,153.4008719]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Hollywell",
+      "storeid": "71"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.9562392,153.3678158]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Parkwood",
+      "storeid": "72"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.9363248,153.3607172]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Arundel",
+      "storeid": "73"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.8527498,153.3344335]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Coomera",
+      "storeid": "74"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.9727267,153.4047876]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Southport",
+      "storeid": "75"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-28.086951,153.4083339]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Varsity Lakes",
+      "storeid": "76"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-28.0361252,153.3410773]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Worongary",
+      "storeid": "77"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-28.0615184,153.3110231]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Tallai",
+      "storeid": "78"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-28.1633169,153.2117218]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Numinbah Valley",
+      "storeid": "79"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.995579,153.3222261]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Natural Bridge",
+      "storeid": "80"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4474462,153.0372678]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Bowen Hills",
+      "storeid": "81"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4703984,153.0263288]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Brisbane",
+      "storeid": "82"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.457938,153.035546]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Fortitude Valley",
+      "storeid": "83"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4481676,153.0247958]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Herston",
+      "storeid": "84"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.484413,153.016445]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Highgate Hill",
+      "storeid": "85"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4759431,153.0356538]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Kangaroo Point",
+      "storeid": "86"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.449506,153.010694]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Kelvin Grove",
+      "storeid": "87"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4671248,153.0463039]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "New Farm",
+      "storeid": "88"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4486977,153.0442535]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Newstead",
+      "storeid": "89"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.455453,153.002363]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Paddington",
+      "storeid": "90"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4649547,153.0130473]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Petrie Terrace",
+      "storeid": "91"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4523717,153.0045368]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Red Hill",
+      "storeid": "92"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4614036,153.0268083]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Spring Hill",
+      "storeid": "93"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.45462,153.0472467]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Teneriffe",
+      "storeid": "94"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4810834,153.0121461]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "West End",
+      "storeid": "95"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4863443,153.0359551]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Woolloongabba",
+      "storeid": "96"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4318616,153.0428255]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Albion",
+      "storeid": "97"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4251861,153.0013787]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Alderley",
+      "storeid": "98"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4309272,153.0622588]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Ascot",
+      "storeid": "99"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.3715016,153.0149856]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Aspley",
+      "storeid": "100"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.3133438,153.011199]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Bald Hills",
+      "storeid": "101"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.3762004,153.0806433]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Banyo",
+      "storeid": "102"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.3526597,153.055894]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Boondall",
+      "storeid": "103"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.323532,153.025097]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Bracken Ridge",
+      "storeid": "104"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.3518712,152.9872466]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Bridgeman Downs",
+      "storeid": "105"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.2943632,153.0506785]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Brighton",
+      "storeid": "106"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.338918,153.015388]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Carseldine",
+      "storeid": "107"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.3829935,153.0322839]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Chermside",
+      "storeid": "108"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4195026,153.0543458]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Clayfield",
+      "storeid": "109"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.3269544,153.0621682]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Deagon",
+      "storeid": "110"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4326992,153.0941952]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Eagle Farm",
+      "storeid": "111"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4025072,152.9869684]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Everton Park",
+      "storeid": "112"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4056109,152.9278592]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Ferny Grove",
+      "storeid": "113"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.3389191,153.02734]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Fitzgibbon",
+      "storeid": "114"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.417629,152.983317]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Gaythorne",
+      "storeid": "115"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.3760946,153.0468873]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Geebung",
+      "storeid": "116"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4149451,153.0268939]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Gordon Park",
+      "storeid": "117"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4257745,153.0145812]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Grange",
+      "storeid": "118"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4367141,153.0711905]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Hamilton",
+      "storeid": "119"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4192513,153.074024]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Hendra",
+      "storeid": "120"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4103628,153.0467461]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Kalinga",
+      "storeid": "121"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.3991172,153.0260277]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Kedron",
+      "storeid": "122"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4214281,152.9477704]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Keperra",
+      "storeid": "123"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.418767,153.0357102]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Lutwyche",
+      "storeid": "124"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.3800372,152.9916941]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "McDowall",
+      "storeid": "125"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4133427,152.9745269]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Mitchelton",
+      "storeid": "126"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4000478,153.1322156]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Myrtletown",
+      "storeid": "127"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.436574,153.007168]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Newmarket",
+      "storeid": "128"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.3922558,153.0681817]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Northgate",
+      "storeid": "129"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.3697277,153.085939]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Nudgee",
+      "storeid": "130"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4032438,153.0605738]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Nundah",
+      "storeid": "131"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4305583,153.1112519]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Pinkenba",
+      "storeid": "132"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.320609,153.0704887]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Sandgate",
+      "storeid": "133"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.3256371,153.081006]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Shorncliffe",
+      "storeid": "134"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4117754,153.0267244]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Stafford",
+      "storeid": "135"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.340595,153.038266]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Taigum",
+      "storeid": "136"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.3752542,153.0617646]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Virginia",
+      "storeid": "137"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.3951309,153.0415946]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Wavell Heights",
+      "storeid": "138"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.433409,153.0174759]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Wilston",
+      "storeid": "139"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4309231,153.0323794]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Windsor",
+      "storeid": "140"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4203701,153.0431453]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Wooloowin",
+      "storeid": "141"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.3596082,153.0394124]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Zillmere",
+      "storeid": "142"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.58728,153.0273938]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Acacia Ridge",
+      "storeid": "143"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.6118239,153.0358428]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Algester",
+      "storeid": "144"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5145009,153.0350137]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Annerley",
+      "storeid": "145"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5672488,153.0154456]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Archerfield",
+      "storeid": "146"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5553029,153.1454768]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Burbank",
+      "storeid": "147"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.6245703,153.0546614]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Calamvale",
+      "storeid": "148"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5698993,153.0344525]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Coopers Plains",
+      "storeid": "149"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5613337,152.9568256]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Darra",
+      "storeid": "150"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.6139063,152.9863978]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Doolandella",
+      "storeid": "151"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.6533308,153.0517598]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Drewvale",
+      "storeid": "152"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5859225,152.992237]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Durack",
+      "storeid": "153"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4953426,153.0254116]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Dutton Park",
+      "storeid": "154"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5748065,153.0841314]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Eight Mile Plains",
+      "storeid": "155"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.6104509,152.9339462]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Ellen Grove",
+      "storeid": "156"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5060197,153.0267385]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Fairfield",
+      "storeid": "157"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.6257384,152.9720863]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Forest Lake",
+      "storeid": "158"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5071706,153.0504447]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Greenslopes",
+      "storeid": "159"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.6185546,152.9617842]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Heathwood",
+      "storeid": "160"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5185877,153.0675377]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Holland Park",
+      "storeid": "161"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5968758,152.96875]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Inala",
+      "storeid": "162"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.6406268,153.0945881]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Karawatha",
+      "storeid": "163"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.6034832,153.0946387]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Kuraby",
+      "storeid": "164"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.6396798,153.0093366]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Larapinta",
+      "storeid": "165"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5648884,153.075174]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "MacGregor",
+      "storeid": "166"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5422626,153.1211081]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Mackenzie",
+      "storeid": "167"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5334339,153.0983577]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Mansfield",
+      "storeid": "168"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5339765,153.0323964]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Moorooka",
+      "storeid": "169"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5366224,153.067363]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Mount Gravatt",
+      "storeid": "170"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5434525,153.0424685]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Nathan",
+      "storeid": "171"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.6277585,152.9947159]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Pallara",
+      "storeid": "172"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.6365455,153.0299969]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Parkinson",
+      "storeid": "173"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5824187,152.9578809]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Richlands",
+      "storeid": "174"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5669212,153.0643632]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Robertson",
+      "storeid": "175"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5685431,153.1172133]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Rochedale",
+      "storeid": "176"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5492931,153.0092966]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Rocklea",
+      "storeid": "177"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5931747,153.0693068]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Runcorn",
+      "storeid": "178"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5448331,153.0296019]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Salisbury",
+      "storeid": "179"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.551,152.959]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Seventeen Mile Rocks",
+      "storeid": "180"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5456708,152.9448419]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Sinnamon Park",
+      "storeid": "181"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.49986,153.046498]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Stones Corner",
+      "storeid": "182"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.6148449,153.0669558]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Stretton",
+      "storeid": "183"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.564861,152.9368613]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Sumner",
+      "storeid": "184"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5782371,153.0554929]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Sunnybank",
+      "storeid": "185"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5416263,153.0399585]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Tarragindi",
+      "storeid": "186"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5246244,153.004518]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Tennyson",
+      "storeid": "187"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5550029,153.0801433]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Upper Mount Gravatt",
+      "storeid": "188"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5890579,152.9254377]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Wacol",
+      "storeid": "189"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5963609,153.0191799]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Willawong",
+      "storeid": "190"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.550536,153.1073049]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Wishart",
+      "storeid": "191"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5300458,153.0111087]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Yeerongpilly",
+      "storeid": "192"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5121348,153.0146136]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Yeronga",
+      "storeid": "193"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4552164,153.0668298]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Balmoral",
+      "storeid": "194"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4889689,153.1275777]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Belmont",
+      "storeid": "195"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4479715,153.0587685]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Bulimba",
+      "storeid": "196"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4982351,153.0763514]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Camp Hill",
+      "storeid": "197"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4709465,153.0944155]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Cannon Hill",
+      "storeid": "198"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4836429,153.1003717]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Carina",
+      "storeid": "199"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5196453,153.1128767]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Carindale",
+      "storeid": "200"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5145211,153.1572358]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Chandler",
+      "storeid": "201"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4997672,153.0622678]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Coorparoo",
+      "storeid": "202"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4950171,153.1522597]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Gumdale",
+      "storeid": "203"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4618183,153.0602466]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Hawthorne",
+      "storeid": "204"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4541888,153.1317354]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Hemmant",
+      "storeid": "205"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4671669,153.1824335]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Lota",
+      "storeid": "206"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4256863,153.1525216]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Lytton",
+      "storeid": "207"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4550041,153.1841364]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Manly",
+      "storeid": "208"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.1792953,153.3753815]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Moreton Island",
+      "storeid": "209"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4664831,153.0736099]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Morningside",
+      "storeid": "210"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4501778,153.1104781]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Murarrie",
+      "storeid": "211"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4829577,153.0623757]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Norman Park",
+      "storeid": "212"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.3837161,153.1679033]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Port of Brisbane",
+      "storeid": "213"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4869395,153.1804701]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Ransome",
+      "storeid": "214"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4773513,153.0710338]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Seven Hills",
+      "storeid": "215"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4708951,153.1337427]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Tingalpa",
+      "storeid": "216"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4831003,153.1506396]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Wakerley",
+      "storeid": "217"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4453137,153.1713391]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Wynnum",
+      "storeid": "218"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5415657,152.8627339]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Anstead",
+      "storeid": "219"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4459305,152.992086]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Ashgrove",
+      "storeid": "220"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4740556,152.9953061]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Auchenflower",
+      "storeid": "221"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4608319,152.9781517]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Bardon",
+      "storeid": "222"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5617835,152.8864165]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Bellbowrie",
+      "storeid": "223"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4948447,152.9095135]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Brookfield",
+      "storeid": "224"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4946491,152.9517842]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Chapel Hill",
+      "storeid": "225"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5139563,152.9793875]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Chelmer",
+      "storeid": "226"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5612716,152.8013829]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Chuwar",
+      "storeid": "227"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5438247,152.9810833]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Corinda",
+      "storeid": "228"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4144831,152.97633]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Enoggera",
+      "storeid": "229"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5293132,152.9619911]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Fig Tree Pocket",
+      "storeid": "230"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5214403,152.9799464]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Graceville",
+      "storeid": "231"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5011082,152.9757949]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Indooroopilly",
+      "storeid": "232"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5540442,152.9340342]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Jamboree Heights",
+      "storeid": "233"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.534174,152.9351623]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Jindalee",
+      "storeid": "234"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5473883,152.8234969]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Karana Downs",
+      "storeid": "235"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.510474,152.9370502]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Kenmore",
+      "storeid": "236"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5757068,152.7538259]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Kholo",
+      "storeid": "237"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5285797,152.6959321]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Lake Manchester",
+      "storeid": "238"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.556652,152.9203619]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Middle Park",
+      "storeid": "239"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4709742,153.0046773]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Milton",
+      "storeid": "240"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5832076,152.8617671]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Moggill",
+      "storeid": "241"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.475767,152.9764734]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Mount Coot-tha",
+      "storeid": "242"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5398654,152.804193]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Mount Crosby",
+      "storeid": "243"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5451348,152.9316706]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Mount Ommaney",
+      "storeid": "244"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5535941,152.9736929]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Oxley",
+      "storeid": "245"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5292176,152.8931304]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Pinjarra Hills",
+      "storeid": "246"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5235385,152.8863246]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Pullenvale",
+      "storeid": "247"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5602195,152.9090061]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Riverhills",
+      "storeid": "248"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.551,152.959]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Seventeen Mile Rocks",
+      "storeid": "249"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5302702,152.9832242]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Sherwood",
+      "storeid": "250"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5456708,152.9448419]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Sinnamon Park",
+      "storeid": "251"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5018505,152.9967995]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "St Lucia",
+      "storeid": "252"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4917203,152.9803387]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Taringa",
+      "storeid": "253"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4422127,152.9401936]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "The Gap",
+      "storeid": "254"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4845876,152.9839205]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Toowong",
+      "storeid": "255"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4727169,152.8526556]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Upper Brookfield",
+      "storeid": "256"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4127157,152.921983]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Upper Kedron",
+      "storeid": "257"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5445797,152.9178107]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Westlake",
+      "storeid": "258"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5239264,153.2288688]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Alexandra Hills",
+      "storeid": "259"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.3985694,153.440464]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Amity Point",
+      "storeid": "260"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4920987,153.2047096]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Birkdale",
+      "storeid": "261"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5352264,153.1969056]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Capalaba",
+      "storeid": "262"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5259363,153.2802973]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Cleveland",
+      "storeid": "263"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.6198441,153.2352614]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Mount Cotton",
+      "storeid": "264"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5120736,153.2566502]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Ormiston",
+      "storeid": "265"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.6122168,153.3032806]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Redland Bay",
+      "storeid": "266"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5774332,153.190501]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Sheldon",
+      "storeid": "267"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.4833607,153.2038219]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Thorneside",
+      "storeid": "268"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5638108,153.2612267]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Thornlands",
+      "storeid": "269"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5878871,153.3036527]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Victoria Point",
+      "storeid": "270"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-27.5104478,153.2439899]
+    },
+    "type": "Feature",
+    "properties": {
+      "category": "service",
+      "name": "Wellington Point",
+      "storeid": "271"
+    }
+  }
+]
+}
